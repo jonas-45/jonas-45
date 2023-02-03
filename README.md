@@ -4,7 +4,7 @@
 **I am a passionate and driven software developer with experience in building scalable and efficient web applications. I specialize in JavaScript, React, and Node.js and have a passion for creating clean, scalable, and efficient code. Check out my projects [here](https://github.com/jonas-45?tab=repositories). If you're interested in working together, feel free to reach out to me via email at [wullahjonas.work@gmail.com](mailto:wullahjonas.work@gmail.com)..
 
 <h2> 👨🏻‍💻 About Me </h2>
-- 🔭  I’m currently learning Full Stack Development at Microverse.<br>- 🌱  I love learning and growing everyday.<br>- 👀  Currently looking for new opportunities and collaborations.
+- 🌍  I'm based in Ghana<br>- 🔭  I’m currently learning Full Stack Development at Microverse.<br>- 🌱  I love learning and growing everyday.<br>- 👀  Currently looking for new opportunities and collaborations<br>-🖥️  See my portfolio at [Website](http://)
 
 
 ## 🌐 Socials:
