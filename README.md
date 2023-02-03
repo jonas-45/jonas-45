@@ -19,9 +19,9 @@
     isWorkingNow: false,
     socialMedias: {
       linkedIn: 'https://linkedin.com/in/jonas-wullah', 
-      facebook: 'https://facebook.com/https://web.facebook.com/wullah.jonas', 
+      facebook: 'https://web.facebook.com/wullah.jonas', 
       "Stack-overflow": 'https://stackoverflow.com/users/8108823',
-      twitter: 'https://twitter.com/https://twitter.com/wullahjonas'
+      twitter: 'https://twitter.com/wullahjonas'
       },
     codingEnviroment: "Github",
     nowLearning: ['Remote development at Microverse Inc.','Full stack development'],
