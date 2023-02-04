@@ -9,7 +9,7 @@
   
   ```javascript
   const aboutJonas = {
-    fullName: 'Wullah Jonas Nuta"\',
+    fullName: 'Wullah Jonas Nuta',
     country: 'Ghana',
     pronouns: ['He', 'Him'],
     nationality: 'Ghanaian GH',
